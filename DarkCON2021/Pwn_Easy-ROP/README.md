@@ -17,6 +17,6 @@ ROPgadget --ropchain --binary easy-rop
 ```  
 This gives you python code in stdout. Store it in a `.py` file. Then generate you pwntools script in order to interact with given executable. In this script first we run that `.py` from ropgadget, and attach the result to `'a'*72`. Then we send this payload as input to our executable. We see it gives use the shell. 
 Result of runnig the code on server:  
-![flag]()
+![flag](https://github.com/aahsani/CTFWriteups/blob/master/DarkCON2021/Pwn_Easy-ROP/src/result.png)
 
 
