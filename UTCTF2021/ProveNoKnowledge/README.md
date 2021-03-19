@@ -39,3 +39,4 @@ if res == 'Authentication failed!\n':
 ```  
 You can see whole script in `netcat.py` file.  
 The flag:  
+![flag](https://github.com/aahsani/CTFWriteups/blob/master/UTCTF2021/ProveNoKnowledge/flag.png)
