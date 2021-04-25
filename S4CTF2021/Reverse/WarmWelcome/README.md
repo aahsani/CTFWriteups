@@ -6,7 +6,7 @@ We have prepared a very warm welcome for you!
 
 ### Writeup
 
-We are given and elf file. Open it with ghidra and find main function. There we see some conditions that if all the conditions are satisfied it means you have the flag.  
+We are given and elf file. Open it with ghidra and find main function. There we see some conditions that if all the conditions are satisfied it means you have the flag.  You can see the whole code of main in `untitled.c` attached file. Here are the conditions:  
 ```c
 sprintf(local_91,"%d",4);
   sprintf(local_93,"%d",0);
