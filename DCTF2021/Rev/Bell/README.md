@@ -2,7 +2,6 @@
 
 ### Challenge Description  
 Blaise's friends like triangles too!  
-```nc dctf-chall-bell.westeurope.azurecontainer.io 5311```
   
 ### Writeup
 We are given a binary file. The `main` function gives us a number between from 8 to 12 and calls `process` function. There is a loop int his function that wants us to enter a number in each iteration. We have to calculate `triangle` result of printed int and loop counter.  
