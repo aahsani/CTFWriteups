@@ -10,3 +10,4 @@ List of events:
 * [S4CTF 2021](https://github.com/aahsani/CTFWriteups/tree/master/S4CTF2021)  
 * [DawgCTF 2021](https://github.com/aahsani/CTFWriteups/tree/master/DawgCTF2021)
 * [DCTF2021](https://github.com/aahsani/CTFWriteups/tree/master/DCTF2021)
+* [TaparCTF2021](https://github.com/aahsani/CTFWriteups/tree/master/TaparCTF2021)
