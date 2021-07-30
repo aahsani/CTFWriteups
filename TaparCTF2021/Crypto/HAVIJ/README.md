@@ -30,7 +30,7 @@ We read the 10 first bytes of a valud `.png` file and the first 10 bytes of `fla
 
 Since we do not know the exact key length, we used 9 different keys and performed xor on `flag.png.len` to see which key gives us a valid picture. And we see that the 9-byte key is the original key.  
 ![enc9](enc9.png)  
-an the flag is:  
+And the flag is:  
 ```
 Tapar{TCTF_0x00}
 ```  
