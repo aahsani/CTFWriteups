@@ -16,4 +16,4 @@ There is `flag.png`file in this layer. We just have to open it:
 sudo shotwell  /var/lib/docker/overlay2/691107a87ff5e12f9341ed931d82678c39f9431dce3cb2966367f208f8f46693/diff/flag.png
 ```  
 Here is the result:  
-![flag.png](flag.png)  
+![2.png](2.png)  
