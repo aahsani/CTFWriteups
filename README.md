@@ -13,3 +13,4 @@ List of events:
 * [TaparCTF2021](https://github.com/aahsani/CTFWriteups/tree/master/TaparCTF2021)
 * [BuckeyeCTF2021](https://github.com/aahsani/CTFWriteups/tree/master/BuckeyeCTF2021)
 * [NITECTF2021](https://github.com/aahsani/CTFWriteups/tree/master/NITECTF2021)
+* [DaVinciCTF2022](https://github.com/aahsani/CTFWriteups/tree/master/DaVinciCTF2022)
