@@ -14,3 +14,4 @@ List of events:
 * [BuckeyeCTF2021](https://github.com/aahsani/CTFWriteups/tree/master/BuckeyeCTF2021)
 * [NITECTF2021](https://github.com/aahsani/CTFWriteups/tree/master/NITECTF2021)
 * [DaVinciCTF2022](https://github.com/aahsani/CTFWriteups/tree/master/DaVinciCTF2022)
+* [JerseyCTFII2022](https://github.com/aahsani/CTFWriteups/tree/master/JerseyCTFII2022)
