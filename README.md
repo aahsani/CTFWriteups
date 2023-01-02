@@ -15,3 +15,4 @@ List of events:
 * [NITECTF2021](https://github.com/aahsani/CTFWriteups/tree/master/NITECTF2021)
 * [DaVinciCTF2022](https://github.com/aahsani/CTFWriteups/tree/master/DaVinciCTF2022)
 * [JerseyCTFII2022](https://github.com/aahsani/CTFWriteups/tree/master/JerseyCTFII2022)
+* [CryptoverseCTF2022](https://github.com/aahsani/CTFWriteups/tree/master/CryptoverseCTF2022)
